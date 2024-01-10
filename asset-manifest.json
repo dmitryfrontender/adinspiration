@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://dmitryfrontender.github.io/adinspiration/static/css/main.a4fd51ea.css",
+    "main.css": "https://dmitryfrontender.github.io/adinspiration/static/css/main.8a89889a.css",
     "main.js": "https://dmitryfrontender.github.io/adinspiration/static/js/main.13722140.js",
     "static/media/thumb-3.png": "https://dmitryfrontender.github.io/adinspiration/static/media/thumb-3.27e500a4830ae81675d2.png",
     "static/media/thumb-4.png": "https://dmitryfrontender.github.io/adinspiration/static/media/thumb-4.a57fea7558d1efd193b6.png",
@@ -13,11 +13,11 @@
     "static/media/closeBtn.svg": "https://dmitryfrontender.github.io/adinspiration/static/media/closeBtn.968bc3f1b35a04bf4d01153cbfaed6e4.svg",
     "static/media/arrowDown.svg": "https://dmitryfrontender.github.io/adinspiration/static/media/arrowDown.5bbcbb0d603fb575f2bb7bcc5d5b8798.svg",
     "static/media/downBtn.svg": "https://dmitryfrontender.github.io/adinspiration/static/media/downBtn.345aa50319fd30a7b9d338d3be811955.svg",
-    "main.a4fd51ea.css.map": "https://dmitryfrontender.github.io/adinspiration/static/css/main.a4fd51ea.css.map",
+    "main.8a89889a.css.map": "https://dmitryfrontender.github.io/adinspiration/static/css/main.8a89889a.css.map",
     "main.13722140.js.map": "https://dmitryfrontender.github.io/adinspiration/static/js/main.13722140.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4fd51ea.css",
+    "static/css/main.8a89889a.css",
     "static/js/main.13722140.js"
   ]
 }
